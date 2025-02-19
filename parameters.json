@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_urpatel5_name": {
+            "value": null
+        },
+        "disks_urpatel5_disk1_776cfdfe6af6478f9746c2b8b0f271e8_externalid": {
+            "value": null
+        },
+        "networkInterfaces_urpatel5731_z1_externalid": {
+            "value": null
+        }
+    }
+}
